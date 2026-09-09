@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/vikash-op/vikash-op/main/assets/cat-chasing-butterfly.svg" width="100%"/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vikash%20Kashyap&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Builder%20|%20Problem%20Solver&descAlignY=55&descSize=18" />
 
 <a href="https://git.io/typing-svg">
@@ -27,8 +29,6 @@
 </p>
 
 </div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🧑‍💻 About Me
 
@@ -95,7 +95,7 @@ fun_fact: "I turn half-baked 2 AM ideas into working prototypes ⚡"
 <summary>🐍 Animated Contribution Snake (setup required)</summary>
 <br/>
 
-This needs a one-time GitHub Actions workflow ([Platane/snk](https://github.com/Platane/snk)) added to your profile repo to generate the SVG automatically. Once set up, this renders a snake eating through your contribution graph:
+Needs a one-time GitHub Actions workflow ([Platane/snk](https://github.com/Platane/snk)) added to your profile repo. Once set up:
 
 ```md
 <img src="https://raw.githubusercontent.com/vikash-op/vikash-op/output/github-contribution-grid-snake.svg" />
@@ -103,7 +103,9 @@ This needs a one-time GitHub Actions workflow ([Platane/snk](https://github.com/
 
 </details>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<div align="center">
+<img src="https://raw.githubusercontent.com/vikash-op/vikash-op/main/assets/cat-chasing-butterfly.svg" width="100%"/>
+</div>
 
 ## 🌟 Featured Projects
 
@@ -172,7 +174,7 @@ Simulation platform to plan, run, and manage hackathons end-to-end.
 
 > Replace the placeholder cards above with your real repos, descriptions, and tech badges.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/vikash-op/vikash-op/main/assets/cat-chasing-butterfly.svg" width="100%"/>
 
 ## 🤝 Let's Connect
 
