@@ -125,7 +125,7 @@ Simulation platform to plan, run, and manage hackathons end-to-end.
 </td>
 <td width="50%">
 
-### 🚧 Project Two
+### 🚧 Project Coming Soon
 *One-line description of the problem it solves.*
 
 `Tech` `Stack` `Here`
@@ -141,7 +141,7 @@ Simulation platform to plan, run, and manage hackathons end-to-end.
 <tr>
 <td width="50%">
 
-### 🚧 Project Three
+### 🚧 Project Coming Soon
 *One-line description of the problem it solves.*
 
 `Tech` `Stack` `Here`
@@ -155,7 +155,7 @@ Simulation platform to plan, run, and manage hackathons end-to-end.
 </td>
 <td width="50%">
 
-### 🚧 Project Four
+### 🚧 Project Coming Soon
 *One-line description of the problem it solves.*
 
 `Tech` `Stack` `Here`
