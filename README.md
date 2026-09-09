@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vikash%20Kashyap&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Builder%20|%20Problem%20Solver&descAlignY=55&descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+Hackathon+Sim+%F0%9F%9A%80;Exploring+AI+Engineering+Tools+%F0%9F%A4%96;Full+Stack+%7C+MERN+%7C+Clean+Code;Always+Open+to+Collaborate+%F0%9F%A4%9D" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Exploring+AI+Engineering+%F0%9F%A4%96;Full+Stack+%7C+MERN+%7C+Clean+Code;Always+Open+to+Collaborate+%F0%9F%A4%9D" />
 </a>
 
 <br/>
